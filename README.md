@@ -1,2 +1,2 @@
 # notes-app
-website link: magical-note.netlify.app
+<a href="https://magical-notes.netlify.app">website link</a>
